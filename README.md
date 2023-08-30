@@ -1,3 +1,3 @@
 ### Purpose
 
-# This repo includes my ml and data processing projects
+This repo includes my ml and data processing projects
